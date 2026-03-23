@@ -1,20 +1,14 @@
-<div style="text-align: center;">
-    <p style="font-size: 32px; margin-bottom: 0; padding-bottom: 0;"><b>Eduardo Vasconcelos</b></p>
-    <p style="font-size: 20px; margin-bottom: 0; padding-bottom: 0">MSc in Computer Science</p>
-    <p style="font-size: 20px;">Security Engineer</p>
-    <p><a href="mailto:eduardo@eduardovasconcelos.com">eduardo@eduardovasconcelos.com</a></p>
-    <p>
-        <a href="https://github.com/vasconcedu">
-            <button style="background-image: linear-gradient(rgb(18, 31, 40), rgb(36, 61, 80)); color: white; border-radius: 16px;"><small>GitHub</small></button>
-        </a>
-        <a href="https://www.linkedin.com/in/vasconcedu/">
-            <button style="background-image: linear-gradient(rgb(18, 31, 40), rgb(36, 61, 80)); color: white; border-radius: 16px;"><small>LinkedIn</small></button>
-        </a>
-        <a href="https://eduardovasconcelos.com/#/">
-            <button style="background-image: linear-gradient(rgb(18, 31, 40), rgb(36, 61, 80)); color: white; border-radius: 16px;"><small>Website</small></button>
-        </a>
-    </p>
-</div>
+# Eduardo Vasconcelos
+
+MSc in Computer Science, Security Engineer
+
+## Contact
+
+- **E-mail:** eduardo@eduardovasconcelos.com
+- **Website:** [https://eduardovasconcelos.com](https://eduardovasconcelos.com)
+- **Codeberg:** [https://codeberg.org/vasconcedu](https://codeberg.org/vasconcedu)
+- **GitHub:** [https://github.com/vasconcedu](https://github.com/vasconcedu)
+- **LinkedIn:** [https://www.linkedin.com/in/vasconcedu/](https://www.linkedin.com/in/vasconcedu/)
 
 ## Key Highlights
 
@@ -22,15 +16,15 @@
 - Experience in teaching programming at the technical level;
 - MSc in Computer Science awarded for national-level excellence in Software Engineering research in 2024;
 - Computer Engineer awarded for excellence in the undergraduate thesis in 2016;
-- Proficient in three languages: Portuguese (native), English <span style="background-color: orangered; color: white; border-radius: 16px; padding: 4px;"><small>IELTS: C1</small></span>, and French <span style="background-color: navy; color: white; border-radius: 16px; padding: 4px;"><small>TCF: B2-C1</small></span>.
+- Proficient in three languages: Portuguese _(native)_, English _(IELTS: C1)_, and French _(TCF: B2-C1)_.
 
 ## Skills Matrix 
 
-| Level        | Application Security | Complementary |
-|--------------|----------------------|---------------|
-| Advanced     | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>Security Engineering</li><li>Threat Modeling</li><li>Penetration Testing</li><li>Vulnerability Assessment</li><li>Security Code Review</li></ul> |<ul style="list-style-type: none; padding: 0; margin: 0;"><li>Research & Development</li></ul> |
-| Intermediate | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>Reverse Engineering</li><li>Cryptography</li></ul> | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>Full Stack Development</li></ul> |
-| Familiar     | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>DevSecOps</li><li>Incident Response</li></ul> | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>Linux SysAdmin</li></ul> |
+|**Level**|**Application Security**|**Complementary**|
+|-|-|-|
+|Advanced|Security Engineering, Threat Modeling, Penetration Testing, Vulnerability Assessment, Security Code Review|Research & Development|
+|Intermediate|Reverse Engineering, Cryptography|Full Stack Development|
+|Familiar|DevSecOps, Incident Response|Linux SysAdmin|
 
 ## Work History
 
