@@ -92,7 +92,8 @@ MSc in Computer Science, Security Engineer
 
     - Research topic: leveraging mutation testing techniques to inject vulnerabilities into Android apps, providing a novel approach to evaluating mobile security testing procedures;
     - Received the Distinguished Paper Award at the Brazilian Conference on Software 2024 (CBSOFT'24) for my work, "Mutation Testing to Support the Security Testing of Android Applications";
-    - Served as a teaching assistant for Software Engineering.
+    - Served as a teaching assistant for Software Engineering;
+    - Graduated with an A average.
 
 - **Postgraduate Diploma in Software Engineering** @ Unicamp, Brazil
 
