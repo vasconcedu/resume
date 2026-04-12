@@ -90,25 +90,25 @@ MSc in Computer Science, Security Engineer
 
   _Feb 2022--Aug 2025_
 
+    - Graduated with an A average.
     - Research topic: leveraging mutation testing techniques to inject vulnerabilities into Android apps, providing a novel approach to evaluating mobile security testing procedures;
     - Received the Distinguished Paper Award at the Brazilian Conference on Software 2024 (CBSOFT'24) for my work, "Mutation Testing to Support the Security Testing of Android Applications";
-    - Served as a teaching assistant for Software Engineering;
-    - Graduated with an A average.
+    - Served as a teaching assistant for Software Engineering.
 
 - **Postgraduate Diploma in Software Engineering** @ Unicamp, Brazil
 
   _Feb 2019--Dec 2019_
 
-    - One-year Postgraduate Diploma program in Software Engineering, covering a range of disciplines within the field, including software design, development, testing, and project management;
-    - Graduated with a GPA of 9.4 out of 10.0.
+    - Graduated with a GPA of 9.4 out of 10.0;
+    - One-year Postgraduate Diploma program in Software Engineering, covering a range of disciplines within the field.
 
 - **Engineer's Degree in Computer Engineering** @ USP, Brazil
 
   _Feb 2012--Jul 2017_
 
+    - Graduated 13th out of 59 with a GPA of 7.5 out of 10.0;
     - Awarded the Sao Paulo Research Foundation (FAPESP) undergraduate research scholarship, contributing to a research project focused on flood forecasting in urban areas;
     - Received the Best Computer Engineering Undergraduate Thesis Award in 2016 for my work on emotion recognition in human speech using Machine Learning;
-    - Graduated 13th out of 59 with a GPA of 7.5 out of 10.0;
     - Served as a teaching assistant for Python Programming;
     - Served as a teaching assistant for Object-Oriented Programming;
     - Volunteered as a junior enterprise web developer.
@@ -116,9 +116,9 @@ MSc in Computer Science, Security Engineer
 - **Visiting Student in Electronic Engineering** @ TCD, Ireland
 
   _Sep 2013--May 2014_
-    
-    - Awarded the Brazilian Federal Government's "Science without Borders" (SwB) scholarship;
+
     - Served as a full-term visiting student, earning 60 ECTS with honors;
+    - Awarded the Brazilian Federal Government's "Science without Borders" (SwB) scholarship;
     - Received a Special Prize for the Best Product Branding Video at the Trinity Engineering Student Entrepreneurs of the Year Competition in 2014.
 
 - **Professional Training in Computer Hardware and Network Maintenance** @ Microlins, Brazil
