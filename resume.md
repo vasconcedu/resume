@@ -30,7 +30,7 @@ MSc in Computer Science, Security Engineer
 
 - **Master Application Security Architect** @ SiDi, Brazil (remote)
 
-  _Aug 2024--Present_
+    _Aug 2024--Present_
 
     - Performed Android malware reverse engineering and developed malicious behavior detection heuristics and Machine Learning models;
     - Research and development of deterministic Android malware traversing routines to unveil and monitor malicious behavior;
@@ -43,13 +43,13 @@ MSc in Computer Science, Security Engineer
 
 - **Technical Instructor** @ SENAI, Brazil (on-site)
 
-  _May 2025--Jan 2026_
+    _May 2025--Jan 2026_
 
     - Taught Python programming and Microsoft Power BI courses.
 
 - **Senior Mobile Security Engineer** @ iFood, Brazil (remote)
 
-  _Feb 2022--Aug 2024_
+    _Feb 2022--Aug 2024_
 
     - Designed and implemented security and fraud prevention mechanisms for mission-critical Android and iOS applications with over 40 million active monthly users;
     - Reverse engineered malicious Android apps to reveal methods and behaviors used by fraudsters in food delivery services;
@@ -57,14 +57,14 @@ MSc in Computer Science, Security Engineer
 
 - **Senior Software Security Analyst** @ SiDi, Brazil
 
-  _Apr 2019--Feb 2022_
+    _Apr 2019--Feb 2022_
 
     - Delivered ongoing offensive security testing services to Samsung, emphasizing application security for Android and web applications;
     - Conducted research on Android API and OS vulnerabilities on behalf of Samsung, including issues related to Android accessibility service abuses and permission circumvention.
 
 - **Information Security Analyst** @ Hacker Rangers, Brazil
 
-  _Jun 2017--Apr 2019_
+    _Jun 2017--Apr 2019_
 
     - Delivered comprehensive services in web application and network security assessments, as well as phishing campaigns;
     - Developed, maintained, and administered Hacker Rangers, a SaaS cybersecurity awareness platform;
@@ -72,14 +72,14 @@ MSc in Computer Science, Security Engineer
 
 - **Information Technology Intern** @ Embraer, Brazil
 
-  _Sep 2016--Jun 2017_
+    _Sep 2016--Jun 2017_
 
     - Contributed to the development of an IT Change Management plan;
     - Conducted analyses of corporate web traffic.
 
 - **Engineering Intern** @ SigMEDIA, Ireland
 
-  _May 2014--Jul 2014_
+    _May 2014--Jul 2014_
 
     - Developed a machine learning model designed to detect laughter in human speech;
     - Processed digital voice signals to train the model.
@@ -88,7 +88,7 @@ MSc in Computer Science, Security Engineer
 
 - **Master's Degree in Computer Science** @ USP, Brazil
 
-  _Feb 2022--Aug 2025_
+    _Feb 2022--Aug 2025_
 
     - Graduated with an A average;
     - Research topic: leveraging mutation testing techniques to inject vulnerabilities into Android apps, providing a novel approach to evaluating mobile security testing procedures;
@@ -97,14 +97,14 @@ MSc in Computer Science, Security Engineer
 
 - **Postgraduate Diploma in Software Engineering** @ Unicamp, Brazil
 
-  _Feb 2019--Dec 2019_
+    _Feb 2019--Dec 2019_
 
     - Graduated with a GPA of 9.4 out of 10.0;
     - One-year Postgraduate Diploma program in Software Engineering, covering a range of disciplines within the field.
 
 - **Engineer's Degree in Computer Engineering** @ USP, Brazil
 
-  _Feb 2012--Jul 2017_
+    _Feb 2012--Jul 2017_
 
     - Graduated 13th out of 59 with a GPA of 7.5 out of 10.0;
     - Awarded the Sao Paulo Research Foundation (FAPESP) undergraduate research scholarship, contributing to a research project focused on flood forecasting in urban areas;
@@ -115,7 +115,7 @@ MSc in Computer Science, Security Engineer
 
 - **Visiting Student in Electronic Engineering** @ TCD, Ireland
 
-  _Sep 2013--May 2014_
+    _Sep 2013--May 2014_
 
     - Served as a full-term visiting student, earning 60 ECTS with honors;
     - Awarded the Brazilian Federal Government's "Science without Borders" (SwB) scholarship;
@@ -123,6 +123,6 @@ MSc in Computer Science, Security Engineer
 
 - **Professional Training in Computer Hardware and Network Maintenance** @ Microlins, Brazil
 
-  _Mar 2007--Sep 2007_
+    _Mar 2007--Sep 2007_
 
     - Six-month professional training program in computer hardware, operating systems, and computer networks.
