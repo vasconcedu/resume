@@ -33,7 +33,7 @@ MSc in Computer Science, Security Engineer
     _Aug 2024--Present_
 
     - Performed Android malware reverse engineering and developed malicious behavior detection heuristics and Machine Learning models;
-    - Research and development of deterministic Android malware traversing routines to unveil and monitor malicious behavior;
+    - Research and development of automated Android malware analysis routines to unveil and monitor malicious behavior;
     - Conducted threat modeling, security architecture reviews, and assessments for Android and web applications, including Samsung Wallet and Samsung Knox;
     - Engaged in AI agent red teaming;
     - Collaborated closely with development teams to integrate security early into the Software Development Life Cycle (SDLC) and anticipate vulnerabilities;
