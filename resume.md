@@ -1,6 +1,6 @@
 # Eduardo Vasconcelos
 
-MSc in Computer Science, Security Engineer
+Security Engineer, MSc in Computer Science, PhD candidate
 
 ## Contact
 
@@ -13,18 +13,18 @@ MSc in Computer Science, Security Engineer
 ## Key Highlights
 
 - Close to 10 years of experience in the software industry with emphasis on Security Engineering;
-- Experience in teaching programming at the technical level;
 - MSc in Computer Science awarded for national-level excellence in Software Engineering research in 2024;
 - Computer Engineer awarded for excellence in the undergraduate thesis in 2016;
+- Experience in teaching programming in vocational/technical education;
 - Proficient in three languages: Portuguese (_native_), English (_IELTS: C1_), and French (_TCF: B2--C1_).
 
-## Skills Matrix 
+## Skills Matrix
 
 |**Level**|**Application Security**|**Complementary**|
 |-|-|-|
 |Advanced|Security Engineering, Threat Modeling, Penetration Testing, Vulnerability Assessment, Security Code Review|Research & Development|
 |Intermediate|Reverse Engineering, Cryptography|Full Stack Development|
-|Familiar|DevSecOps, Incident Response|Linux SysAdmin|
+|Familiar|DevSecOps, Incident Response|Linux SysAdmin, Linux Kernel Development|
 
 ## Work History
 
@@ -40,6 +40,13 @@ MSc in Computer Science, Security Engineer
     - Revitalized the company's Security Champions program;
     - Designed and implemented security solutions, acting as an engineer for both backend and frontend applications;
     - Provided guidance and mentoring to less experienced peers.
+
+- **Open Source Contributor** @ Linux kernel
+
+    _Apr 2026--Present_
+
+    - Contributed 2 patches to the Linux kernel: 1 ThinkPad ACPI driver refactor (merged to maintainer's next tree), 1 DRM subsystem code quality improvement (reviewed, awaiting merge);
+    - Engaged with upstream review processes and kernel development workflows.
 
 - **Technical Instructor** @ SENAI, Brazil (on-site)
 
@@ -85,6 +92,11 @@ MSc in Computer Science, Security Engineer
     - Processed digital voice signals to train the model.
 
 ## Education 
+
+- **Doctoral Degree in Computer Science** @ USP, Brazil
+
+    _Apr 2026--Present_
+    - Research topic: fuzz testing embedded systems operating in brownout voltage regimes for security bugs.
 
 - **Master's Degree in Computer Science** @ USP, Brazil
 
