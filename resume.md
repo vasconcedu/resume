@@ -1,6 +1,6 @@
 # Eduardo Vasconcelos
 
-Security Engineer, MSc in Computer Science, PhD candidate
+Security Engineer, MSc in Computer Science, PhD student
 
 ## Contact
 
