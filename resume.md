@@ -1,31 +1,38 @@
+---
+geometry: "left=25mm,right=25mm,top=25mm,bottom=25mm"
+fontfamily: sans
+fontsize: 11pt
+---
+
 # Eduardo Vasconcelos
 
-Security Engineer | Systems Programming | Android | Linux Kernel | MSc | PhD Student
+## Security Engineer | PhD student
+
+Linux kernel, Android security, systems programming
 
 ## Contact
 
 - **E-mail:** eduardo@eduardovasconcelos.com
 - **Website:** [https://eduardovasconcelos.com](https://eduardovasconcelos.com)
+- **LinkedIn:** [https://www.linkedin.com/in/vasconcedu/](https://www.linkedin.com/in/vasconcedu/)
 - **Codeberg:** [https://codeberg.org/vasconcedu](https://codeberg.org/vasconcedu)
 - **GitHub:** [https://github.com/vasconcedu](https://github.com/vasconcedu)
-- **LinkedIn:** [https://www.linkedin.com/in/vasconcedu/](https://www.linkedin.com/in/vasconcedu/)
+- **GitLab:** [https://gitlab.com/vasconcedu](https://gitlab.com/vasconcedu)
 
 ## Key Highlights
 
 - Close to 10 years of experience in Security Engineering with emphasis on Android;
 - Active contributor to the Linux kernel with 3 patches contributed to upstream;
-- MSc in Computer Science awarded for national-level excellence in Software Engineering research in 2024;
-- Computer Engineer awarded for excellence in the undergraduate thesis in 2016;
+- MSc in Computer Science awarded for national-level excellence in Software Engineering research;
+- Computer Engineer awarded for excellence in the undergraduate thesis;
 - Experience in teaching Python programming in vocational/technical education;
 - Proficient in three languages: Portuguese (_native_), English (_IELTS: C1_), and French (_TCF: B2--C1_).
 
-## Skills Matrix
+## Skills
 
-|**Level**|**Skill**|
-|-|-|-|
-|Advanced|Threat Modeling, Security Testing, Security Code Review, Research & Development|
-|Intermediate|Reverse Engineering, DevSecOps, Cryptography, Linux SysAdmin, Linux Kernel Development|
-|Familiar|Incident Response, Embedded Systems|
+- **Advanced:** threat modeling, security testing, security code review, R&D
+- **Intermediate:** reverse engineering, DevSecOps, cryptography, Linux sysadmin, Linux kernel development, Machine Learning
+- **Familiar:** incident response, embedded systems
 
 ## Work History
 
