@@ -21,7 +21,7 @@ Linux kernel, Android security, systems programming
 
 ## Key Highlights
 
-- Close to 10 years of experience in Security Engineering with emphasis on Android;
+- Almost 10 years of experience in Security Engineering with emphasis on Android;
 - Active contributor to the Linux kernel with 3 patches contributed to upstream;
 - MSc in Computer Science awarded for national-level excellence in Software Engineering research;
 - Computer Engineer awarded for excellence in the undergraduate thesis;
