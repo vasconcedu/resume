@@ -26,7 +26,7 @@ Linux kernel, Android security, systems programming
 - MSc in Computer Science awarded for national-level excellence in Software Engineering research;
 - Computer Engineer awarded for excellence in the undergraduate thesis;
 - Experience in teaching Python programming in vocational/technical education;
-- Proficient in three languages: Portuguese (_native_), English (_IELTS: C1_), and French (_TCF: B2--C1_)
+- Proficient in three languages: Portuguese (_native_), English (_IELTS: C1_), and French (_TCF: B2--C1_).
 
 ## Skills
 
