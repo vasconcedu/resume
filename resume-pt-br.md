@@ -8,7 +8,7 @@ fontsize: 11pt
 
 ## Engenheiro de Segurança de Software | Aluno de Doutorado (LabES, ICMC-USP)
 
-Kernel Linux, segurança Android, programação de sistemas
+Kernel Linux, segurança Android, red teaming de IA, programação de sistemas
 
 ## Contato
 
@@ -42,8 +42,9 @@ Kernel Linux, segurança Android, programação de sistemas
 
     - Engenharia reversa de malware Android, descompilação de bytecode DEX para Java e análise de shared objects x86 para desenvolver heurísticas de comportamento malicioso e modelos de Machine Learning para detecção de malware;
     - Projeto e implementação de ferramentas automatizadas de análise de malware Android em Python para descobrir e monitorar comportamentos de aplicações maliciosas;
+	- Participação em task force interna de red teaming de IA, contribuindo para a construção de conhecimento em teste de segurança e reportando vulnerabilidades de segurança em agentes de IA;
+	- Instrutor de segurança de IA para residentes de tecnologia, incluindo engenharia de segurança e red teaming de IA;
     - Modelagem de ameaças e teste de segurança de aplicações Android e web, incluindo o Samsung Knox;
-    - Participação em task force interna de red teaming de IA, contribuindo para a construção de conhecimento em teste de segurança e reportando vulnerabilidades de segurança em agentes de IA;
     - Idealizador e um dos principais contribuidores na revitalização do programa de Security Champions.
 
 - **Contribuidor Open Source** @ Kernel Linux

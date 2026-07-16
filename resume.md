@@ -8,7 +8,7 @@ fontsize: 11pt
 
 ## Security Engineer | PhD student
 
-Linux kernel, Android security, systems programming
+Linux kernel, Android security, AI red teaming, systems programming
 
 ## Contact
 
@@ -42,9 +42,10 @@ Linux kernel, Android security, systems programming
 
     - Reverse engineered Android malware, decompiling DEX to Java and analyzing x86 shared objects to develop malicious behavior heuristics and Machine Learning models for malware detection;
     - Designed and implemented automated Android malware analysis tools in Python to unveil and monitor malicious application behavior;
+	- Participated in internal AI red teaming task forces, contributing to AI security testing knowledge building and reporting security vulnerabilities in AI agents;
+	- Delivered AI security training to resident tech students, including AI security engineering and red teaming;
     - Performed threat modeling and security testing of Android and web applications, including Samsung Knox;
-    - Participated in internal AI red teaming task forces, contributing to AI security testing knowledge building and reporting security vulnerabilities in AI agents;
-    - Key contributor in revitalizing the Security Champions program.
+    - Proponent and key contributor in revitalizing the Security Champions program.
 
 - **Open Source Contributor** @ Linux kernel
 
