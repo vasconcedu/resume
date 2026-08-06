@@ -6,7 +6,7 @@ fontsize: 11pt
 
 # Eduardo Vasconcelos
 
-## Security Engineer | PhD student
+## Security Engineer | Adjunct Professor | PhD student
 
 Linux kernel, Android security, AI red teaming, systems programming
 
@@ -46,6 +46,12 @@ Linux kernel, Android security, AI red teaming, systems programming
 	- Delivered AI security training to resident tech students, including AI security engineering and red teaming;
     - Performed threat modeling and security testing of Android and web applications, including Samsung Knox;
     - Proponent and key contributor in revitalizing the Security Champions program.
+
+- **Adjunct Professor** @ UNIP, Brazil (on-site)
+
+    _Aug 2026--Present_
+
+    - Adjunct professor of Computer Science, teaching Object-Oriented Programming and Integrated Project Development (Embedded Systems) courses.
 
 - **Open Source Contributor** @ Linux kernel
 
@@ -102,8 +108,7 @@ Linux kernel, Android security, AI red teaming, systems programming
 - **Doctoral Degree in Computer Science** @ USP, Brazil
 
     _Apr 2026--Present_
-    - Research topic: fuzz testing embedded systems operating in brownout voltage regimes for security bugs;
-    - Currently serving as a volunteer Debian Linux system administrator at the Software Engineering Lab. 
+    - Research topic: fuzz testing embedded systems operating in brownout voltage regimes for security bugs.
 
 - **Master's Degree in Computer Science** @ USP, Brazil
 

@@ -6,7 +6,7 @@ fontsize: 11pt
 
 # Eduardo Vasconcelos
 
-## Engenheiro de Segurança de Software | Aluno de Doutorado (LabES, ICMC-USP)
+## Engenheiro de Segurança de Software | Professor Adjunto | Aluno de Doutorado (LabES, ICMC-USP)
 
 Kernel Linux, segurança Android, red teaming de IA, programação de sistemas
 
@@ -46,6 +46,12 @@ Kernel Linux, segurança Android, red teaming de IA, programação de sistemas
 	- Instrutor de segurança de IA para residentes de tecnologia, incluindo engenharia de segurança e red teaming de IA;
     - Modelagem de ameaças e teste de segurança de aplicações Android e web, incluindo o Samsung Knox;
     - Idealizador e um dos principais contribuidores na revitalização do programa de Security Champions.
+
+- **Professor Adjunto** @ UNIP, Brasil (presencial)
+
+    _Aug 2026--Present_
+
+    - Professor Adjunto de Ciências de Computação, ministrando as disciplinas de Aplicações de Linguagem de Programação Orientada a Objetos e Projeto e Desenvolvimento II (projeto integrado de sistemas embarcados).
 
 - **Contribuidor Open Source** @ Kernel Linux
 
@@ -102,8 +108,7 @@ Kernel Linux, segurança Android, red teaming de IA, programação de sistemas
 - **Doutorado em Ciências de Computação** @ USP, Brasil
 
     _Abr 2026--Presente_
-    - Tema de pesquisa: teste de fuzzing de sistemas embarcados operando em regimes de tensão de brownout com foco em bugs de segurança;
-    - Atualmente, atuando como voluntário na administração de sistemas Linux Debian no Laboratório de Engenharia de Software.
+    - Tema de pesquisa: teste de fuzzing de sistemas embarcados operando em regimes de tensão de brownout com foco em bugs de segurança.
 
 - **Mestrado em Ciências de Computação** @ USP, Brasil
 
