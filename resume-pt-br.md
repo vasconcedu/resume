@@ -51,7 +51,7 @@ Kernel Linux, segurança Android, red teaming de IA, programação de sistemas
 
     _Aug 2026--Present_
 
-    - Professor Adjunto de Ciências de Computação, ministrando as disciplinas de Aplicações de Linguagem de Programação Orientada a Objetos e Projeto e Desenvolvimento II (projeto integrado de sistemas embarcados).
+    - Professor Adjunto de Ciências de Computação, ministrando as disciplinas de Aplicações de Linguagem de Programação Orientada a Objetos e Projeto e Desenvolvimento II (projeto integrado de Sistemas Embarcados).
 
 - **Contribuidor Open Source** @ Kernel Linux
 
