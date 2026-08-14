@@ -21,7 +21,7 @@ Kernel Linux, segurança Android, red teaming de IA, programação de sistemas
 
 ## Destaques Principais
 
-- Quase 10 anos de experiência em Engenharia de Segurança de Software com ênfase em Android;
+- 10 anos de experiência em Engenharia de Segurança de Software com ênfase em Android;
 - Contribuidor ativo do kernel Linux com 3 patches contribuídos para upstream;
 - Mestre em Ciências de Computação premiado a nível nacional (CBSOFT'24-SBC) por trabalho de pesquisa em Engenharia de Software;
 - Engenheiro de Computação premiado localmente (ICMC-USP) pelo melhor trabalho de conclusão de curso de graduação;
