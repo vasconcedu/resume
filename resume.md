@@ -15,7 +15,6 @@ Linux kernel, Android security, AI red teaming, systems programming
 - **E-mail:** eduardo@eduardovasconcelos.com
 - **Website:** [https://eduardovasconcelos.com](https://eduardovasconcelos.com)
 - **LinkedIn:** [https://www.linkedin.com/in/vasconcedu/](https://www.linkedin.com/in/vasconcedu/)
-- **Codeberg:** [https://codeberg.org/vasconcedu](https://codeberg.org/vasconcedu)
 - **GitHub:** [https://github.com/vasconcedu](https://github.com/vasconcedu)
 - **GitLab:** [https://gitlab.com/vasconcedu](https://gitlab.com/vasconcedu)
 
