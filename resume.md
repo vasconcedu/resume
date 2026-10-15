@@ -8,7 +8,7 @@ fontsize: 11pt
 
 ## Security Engineer | Adjunct Professor | PhD student (USP)
 
-Linux kernel, Android security, software engineering, systems programming
+Linux kernel, Android security, software engineering, systems programming, R&D
 
 ## Contact
 
