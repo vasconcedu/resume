@@ -13,7 +13,7 @@ Linux kernel, Android security, software engineering, systems programming
 ## Contact
 
 - **E-mail:** eduardo@eduardovasconcelos.com
-- **Website:** [https://eduardovasconcelos.com](https://eduardovasconcelos.com)
+- **Website:** [https://eduardovasconcelos.com/](https://eduardovasconcelos.com/)
 - **LinkedIn:** [https://www.linkedin.com/in/vasconcedu/](https://www.linkedin.com/in/vasconcedu/)
 - **GitHub:** [https://github.com/vasconcedu](https://github.com/vasconcedu)
 - **GitLab:** [https://gitlab.com/vasconcedu](https://gitlab.com/vasconcedu)
